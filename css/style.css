@@ -1,0 +1,26 @@
+.container{
+	margin-top: 50px;
+}
+
+#addBreed {
+
+	
+	max-width: 270px;	
+	
+}
+
+form {
+	width: 50%;
+	float: right;
+
+}
+
+label { 
+	font-size: 1.5em;
+	font-family: sans-serif;
+	color:rgba(74, 177, 164, 0.88);
+}
+
+#breed-input {
+	border: rgba(74, 177, 164, 0.88) 5px solid;
+}
